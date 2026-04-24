@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title desc">
+  <title id="title">Find The Key room placeholder</title>
+  <desc id="desc">A red, black, and white placeholder scene showing a puzzle room.</desc>
+  <rect width="800" height="500" fill="#0d0d0d"/>
+  <rect x="40" y="40" width="720" height="420" rx="28" fill="#181818" stroke="#2f2f2f" stroke-width="4"/>
+  <circle cx="650" cy="125" r="80" fill="#d71f28" opacity="0.25"/>
+  <rect x="110" y="120" width="210" height="210" rx="20" fill="#242424" stroke="#f7f3f1" stroke-opacity="0.15"/>
+  <rect x="370" y="120" width="320" height="40" rx="10" fill="#f7f3f1" opacity="0.9"/>
+  <rect x="370" y="190" width="250" height="22" rx="11" fill="#f7f3f1" opacity="0.35"/>
+  <rect x="370" y="232" width="210" height="22" rx="11" fill="#f7f3f1" opacity="0.2"/>
+  <rect x="370" y="305" width="160" height="52" rx="26" fill="#d71f28"/>
+  <circle cx="215" cy="225" r="42" fill="#d71f28"/>
+  <rect x="202" y="222" width="92" height="10" rx="5" transform="rotate(-35 202 222)" fill="#f7f3f1"/>
+  <text x="110" y="410" fill="#f7f3f1" font-size="34" font-family="Arial, sans-serif">Puzzle room preview</text>
+</svg>

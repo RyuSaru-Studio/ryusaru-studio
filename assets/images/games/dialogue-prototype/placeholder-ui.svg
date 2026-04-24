@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title desc">
+  <title id="title">Dialogue Prototype interface placeholder</title>
+  <desc id="desc">A placeholder dialogue interface with choice buttons.</desc>
+  <rect width="800" height="500" fill="#0a0a0a"/>
+  <rect x="50" y="50" width="700" height="400" rx="30" fill="#141414" stroke="#303030" stroke-width="4"/>
+  <rect x="90" y="95" width="620" height="120" rx="22" fill="#f7f3f1" opacity="0.96"/>
+  <rect x="125" y="130" width="280" height="16" rx="8" fill="#d71f28"/>
+  <rect x="125" y="160" width="430" height="12" rx="6" fill="#1b1b1b" opacity="0.35"/>
+  <rect x="125" y="184" width="390" height="12" rx="6" fill="#1b1b1b" opacity="0.18"/>
+  <rect x="100" y="260" width="600" height="46" rx="23" fill="#d71f28"/>
+  <rect x="100" y="323" width="600" height="46" rx="23" fill="#262626"/>
+  <rect x="100" y="386" width="600" height="28" rx="14" fill="#f7f3f1" opacity="0.12"/>
+  <text x="100" y="440" fill="#f7f3f1" font-size="34" font-family="Arial, sans-serif">Dialogue UI preview</text>
+</svg>

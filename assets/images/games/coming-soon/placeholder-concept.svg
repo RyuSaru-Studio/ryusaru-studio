@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title desc">
+  <title id="title">Coming Soon concept placeholder</title>
+  <desc id="desc">A placeholder mood board for a future game.</desc>
+  <rect width="800" height="500" fill="#090909"/>
+  <rect x="45" y="45" width="710" height="410" rx="30" fill="#151515" stroke="#313131" stroke-width="4"/>
+  <circle cx="610" cy="140" r="92" fill="#d71f28" opacity="0.28"/>
+  <rect x="100" y="110" width="180" height="120" rx="18" fill="#242424"/>
+  <rect x="310" y="110" width="180" height="120" rx="18" fill="#2b1618"/>
+  <rect x="205" y="255" width="180" height="120" rx="18" fill="#201f1f"/>
+  <path d="M140 170l42-34 55 40 72-58" fill="none" stroke="#f7f3f1" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M345 165h105M345 195h85" stroke="#f7f3f1" stroke-width="10" stroke-linecap="round" opacity="0.75"/>
+  <text x="500" y="305" fill="#f7f3f1" font-size="56" font-family="Arial, sans-serif">Coming Soon</text>
+  <text x="500" y="350" fill="#ff9da1" font-size="24" font-family="Arial, sans-serif">Early concept board</text>
+</svg>
